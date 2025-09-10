@@ -1,0 +1,10 @@
+a=int(input("enter first integer:"))
+b=int(input("enter second integer:"))
+s=a+b
+d=a-b
+m=a*b
+p=a/b
+print(f"{a}+{b}=",s)
+print(f"{a}-{b}=",d)
+print(f"{a}*{b}=",m)
+print(f"{a}/{b}=",p)
